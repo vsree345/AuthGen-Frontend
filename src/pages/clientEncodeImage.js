@@ -29,7 +29,7 @@ export default (() => {
 
 		const formData = new FormData();
 		formData.append('file', File);
-		formData.append('secret',"G6bcqa0");
+		formData.append('secret',sessionStorage.getItem('secret'));
 
 		try {
 			setLoading(true);
@@ -63,7 +63,7 @@ export default (() => {
 
 	}
 
-	if (true){
+	if (true){ // if (isLoggedIn){
 		return <Theme theme={theme}>
 		<head>
 			<title>Encrypt</title>
@@ -97,7 +97,7 @@ export default (() => {
 						sm-margin="0px 0 0px 0"
 						display="block"
 					>
-						Smart Scan
+						AuthGen
 					</Text>
 				</LinkBox>
 			</Box>

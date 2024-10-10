@@ -9,8 +9,8 @@ import { FiMenu } from "react-icons/fi";
 import { AiOutlineMenu } from "react-icons/ai";
 
 import Snackbar from '@mui/material/Snackbar';
-import IconButton from '@mui/material/IconButton';
-import CloseIcon from '@mui/icons-material/Close';
+// import IconButton from '@mui/material/IconButton';
+// import CloseIcon from '@mui/icons-material/Close';
 import Alert from '@mui/material/Alert';
 
 export default (() => {
@@ -151,7 +151,7 @@ export default (() => {
 						sm-margin="0px 0 0px 0"
 						display="block"
 					>
-						Smart Scan
+						AuthGen
 					</Text>
 				</LinkBox>
 			</Box>
