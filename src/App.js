@@ -5,7 +5,7 @@ import ClientEncodeImage from "pages/clientEncodeImage";
 import CustomerDecodeImage from "pages/customerDecodeImage";
 import privacyPolicy from "pages/privacyPolicy";
 import Page404 from "pages/page404";
-import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+import { HashRouter as Router, Route, Switch, Redirect } from "react-router-dom";
 import { createGlobalStyle } from "styled-components";
 
 const GlobalStyles = createGlobalStyle`
