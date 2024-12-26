@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/AuthGen-Frontend/precache-manifest.d9e36c9d7a12a737addd060210613374.js"
+  "/AuthGen-Frontend/precache-manifest.cef8c422ab785d468317afb00137b27c.js"
 );
 
 self.addEventListener('message', (event) => {

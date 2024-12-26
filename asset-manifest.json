@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/AuthGen-Frontend/static/js/main.78700b58.chunk.js",
-    "main.js.map": "/AuthGen-Frontend/static/js/main.78700b58.chunk.js.map",
+    "main.js": "/AuthGen-Frontend/static/js/main.39cf4c9c.chunk.js",
+    "main.js.map": "/AuthGen-Frontend/static/js/main.39cf4c9c.chunk.js.map",
     "runtime-main.js": "/AuthGen-Frontend/static/js/runtime-main.d56a346b.js",
     "runtime-main.js.map": "/AuthGen-Frontend/static/js/runtime-main.d56a346b.js.map",
     "static/js/2.c7aeb809.chunk.js": "/AuthGen-Frontend/static/js/2.c7aeb809.chunk.js",
@@ -23,13 +23,13 @@
     "static/js/10.bceba097.chunk.js": "/AuthGen-Frontend/static/js/10.bceba097.chunk.js",
     "static/js/10.bceba097.chunk.js.map": "/AuthGen-Frontend/static/js/10.bceba097.chunk.js.map",
     "index.html": "/AuthGen-Frontend/index.html",
-    "precache-manifest.d9e36c9d7a12a737addd060210613374.js": "/AuthGen-Frontend/precache-manifest.d9e36c9d7a12a737addd060210613374.js",
+    "precache-manifest.cef8c422ab785d468317afb00137b27c.js": "/AuthGen-Frontend/precache-manifest.cef8c422ab785d468317afb00137b27c.js",
     "service-worker.js": "/AuthGen-Frontend/service-worker.js",
     "static/js/2.c7aeb809.chunk.js.LICENSE.txt": "/AuthGen-Frontend/static/js/2.c7aeb809.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d56a346b.js",
     "static/js/2.c7aeb809.chunk.js",
-    "static/js/main.78700b58.chunk.js"
+    "static/js/main.39cf4c9c.chunk.js"
   ]
 }

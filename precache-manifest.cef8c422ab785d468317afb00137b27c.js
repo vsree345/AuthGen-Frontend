@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "51ba9f9904a3ca5ac59cb957b1296dcd",
+    "revision": "cb8f4852472a1226c5dbbe04905cd36f",
     "url": "/AuthGen-Frontend/index.html"
   },
   {
@@ -44,8 +44,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AuthGen-Frontend/static/js/9.7ff8e8ae.chunk.js"
   },
   {
-    "revision": "5e08c5cf7c86e312d66b",
-    "url": "/AuthGen-Frontend/static/js/main.78700b58.chunk.js"
+    "revision": "c2cb02326d75d5bd172e",
+    "url": "/AuthGen-Frontend/static/js/main.39cf4c9c.chunk.js"
   },
   {
     "revision": "704e1023216914d3280e",
